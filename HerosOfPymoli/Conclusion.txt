@@ -1,0 +1,8 @@
+The percentage of male players to female players is considerably higher. The number of undisclosed players was miniscule and does not affect this result. 
+There seems to be no correlation between gender and purchase price since the average price for both genders was around $3.00. It appears that females do tend to spend more money on games based on avg price. 
+The greatest number of players that made purchases are in the 15-24 age range. The age range of 25-34 tend to spend the least of all ages. 
+The player that spent the most money was Haillyrgue51.
+The most popular game was "Oathbreaker, Last Hope of the Breaking Storm" with 12 purchases. The price of this game is slightly higher than the average amount spent accross all age ranges. 
+In general, the top five purchased games' prices were above the average price paid. This shows that people are willing to pay a premium price for a popular game. 
+
+
